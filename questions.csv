@@ -1,0 +1,10 @@
+在 VS Code 中，要儲存檔案的快捷鍵是？,Ctrl + C,Ctrl + O,Ctrl + S,Ctrl + Z,C
+要開啟新的檔案可以按哪個快捷鍵？,Ctrl + Shift + S,Ctrl + F,Ctrl + N,Ctrl + D,C
+在 VS Code 中，開啟終端機的快捷鍵是？,Ctrl + L,Ctrl + Shift + N,Ctrl + `（反引號）,Ctrl + A,C
+要更改 VS Code 的顯示主題（Color Theme），應該去哪裡？,外掛市集,終端機設定,偏好設定 → 主題,專案資料夾,C
+在 VS Code 中，哪個圖示可以用來管理專案檔案？,搜尋圖示,偵錯圖示,檔案總管圖示（Explorer）,插件圖示,C
+VS Code 的左下角齒輪圖示主要用來？,開啟新檔案,執行程式,進入設定選單,關閉軟體,C
+在 VS Code 中，若要安裝新外掛，要去哪裡？,偏好設定,檔案總管,擴充功能（Extensions）,偵錯區,C
+哪個檔案用來儲存程式設定或專案設定？,main.py,index.html,settings.json,run.exe,C
+要同時選取多個相同字詞，可以按？,Ctrl + X,Ctrl + S,Ctrl + D,Ctrl + V,C
+在 VS Code 中，要執行目前的程式碼，可以按？,Ctrl + Z,Ctrl + F,Ctrl + F5,Ctrl + E,C
